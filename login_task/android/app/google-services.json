@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786796904902",
+    "project_id": "login-task-firebase",
+    "storage_bucket": "login-task-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786796904902:android:de144cb2b5c74ba4b3b2c7",
+        "android_client_info": {
+          "package_name": "com.example.login_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBClKlRLS2JdXyPhc0slkF1MroqHblbY4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
